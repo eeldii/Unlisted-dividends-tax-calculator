@@ -2,6 +2,8 @@
 
 A browser-based calculator comparing Finnish unlisted-company dividend taxation across seven scenarios. Includes scenario graphs, light and dark themes, calculation explanations, and Excel (.xlsx), JSON and print/PDF exports.
 
+<img width="1901" height="903" alt="image" src="https://github.com/user-attachments/assets/497e0362-6abf-4b46-bc21-56f113bb0f18" />
+
 ## Open locally
 
 Open index.html in your browser. Everything is included in this single HTML file. No installation, build step, server or API key is required.
